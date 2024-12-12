@@ -1,0 +1,14 @@
+C:\Users\becru\OneDrive - Anglia Ruskin University\Software Engineering 2024\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\becru\OneDrive - Anglia Ruskin University\Software Engineering 2024\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\becru\OneDrive - Anglia Ruskin University\Software Engineering 2024\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\becru\OneDrive - Anglia Ruskin University\Software Engineering 2024\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\becru\OneDrive - Anglia Ruskin University\Software Engineering 2024\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\becru\OneDrive - Anglia Ruskin University\Software Engineering 2024\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\becru\OneDrive - Anglia Ruskin University\Software Engineering 2024\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\becru\OneDrive - Anglia Ruskin University\Software Engineering 2024\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\becru\OneDrive - Anglia Ruskin University\Software Engineering 2024\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\becru\OneDrive - Anglia Ruskin University\Software Engineering 2024\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ForgotPasswordForm.resources
+C:\Users\becru\OneDrive - Anglia Ruskin University\Software Engineering 2024\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ConfirmCodeForm.resources
+C:\Users\becru\OneDrive - Anglia Ruskin University\Software Engineering 2024\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ResetPasswordForm.resources
+C:\Users\becru\OneDrive - Anglia Ruskin University\Software Engineering 2024\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginPage.resources
+C:\Users\becru\OneDrive - Anglia Ruskin University\Software Engineering 2024\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SignUpForm.resources
